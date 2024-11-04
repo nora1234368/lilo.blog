@@ -1,5 +1,5 @@
 +++
-title = "About me"
+title = "NORA LÜTHI"
 draft = false
 image = "/img/default-author.jpg"
 description = ""
